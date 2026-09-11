@@ -1,0 +1,18 @@
+.contenedor1{
+    width: 50px;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 25px;
+    right: 200px;
+}
+
+.img1{
+    width: 50px;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+}
